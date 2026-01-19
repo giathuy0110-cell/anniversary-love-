@@ -107,7 +107,7 @@
 <!-- Password -->
 <div id="lock">
   <h2>💗 Chỉ dành cho chúng ta 💗</h2>
-  <p>Gợi ý: ngày sinh của tôi và đối phương cộng lại – tháng sinh cộng lại – năm sinh của cả hai</p>
+  <p>Gợi ý: ngày sinh của tôi và  cộng lại – tháng sinh cộng lại – năm sinh của cả hai</p>
   <input type="password" id="pass" placeholder="Nhập mật khẩu" />
   <button onclick="unlock()">Mở khoá</button>
 </div>
@@ -137,7 +137,7 @@
   <h2>Lá thư của chúng tôi</h2>
   <div class="letter">
     <p><b>Em yêu à,</b></p>
-    <p>(NỘI DUNG THƯ DÀI ~10000 TỪ – PHIÊN BẢN ĐẦY ĐỦ MÌNH SẼ GỬI RIÊNG Ở TIN NHẮN TIẾP ĐỂ BẠN DÁN VÀO, vì quá dài)</p>
+    <p>(Cảm ơn em vì đã tới bên đời tui và đã ở bên nhau được tới bây giờ, dù nhiều chyện xảy ra dù cả hai đôi khi thấy mệt mỏi, dù có khi mọi chuyện trở nên tồi tệ, nhưng sau tất vẫn thấy rất hạnh phúc vì chúng mình còn bên nhau vẫn trân trọng, hạnh phúc mỗi khi thức dậy mở mắt kế bên vẫn là em. Những đêm ngủ có người kề bên ấm áp và dịu êm. Thực lòng mong em sẽ mãi luôn bên tui để cùng nhau bước tiếp đồng hành vượt qua sóng gió trưởng thành và mong năm mới tới cùng nhau phát triển, cùng bước tới vùng đất mới, trải nghiệm những thử thách,những trò chơi, những điều mới lạ mà cả hai chưa từng thử. Và thực khách trung thành của tui vẫn sẽ tiếp tục ủng hộ những bữa cơm ấm áp, dù đôi khi có những món ăn chưa hoàn hảo nhưng vẫn mong iem sẽ vẫn là vị khách đặc biệt mỗi sáng, trưa, tối của đầu bếp vụng về này. Yêu em nhiều lắm dù em lì nhất nhưng khi em tới bên đời tui thật sự rất hạnh phúc và thấy may mắn khi mình bên nhau như một gia đình, người thân của nhau cùng nhau thăm gia đình. Sắp tới mong em vẫn sẽ bên cạnh tui chăm sóc và được tui chăm sóc nhé! Yêu em rất rất nhìu <3)</p>
   </div>
 </section>
 
