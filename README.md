@@ -126,10 +126,10 @@
 <section>
   <h2>Những khoảnh khắc bên nhau</h2>
   <div class="grid">
-    <div class="card" onclick="flip(this)"><div class="card-inner"><div class="card-face">💌</div><div class="card-face card-back" style="background-image:url('img1.jpg')"></div></div></div>
-    <div class="card" onclick="flip(this)"><div class="card-inner"><div class="card-face">💗</div><div class="card-face card-back" style="background-image:url('img2.jpg')"></div></div></div>
-    <div class="card" onclick="flip(this)"><div class="card-inner"><div class="card-face">💕</div><div class="card-face card-back" style="background-image:url('img3.jpg')"></div></div></div>
-    <div class="card" onclick="flip(this)"><div class="card-inner"><div class="card-face">💞</div><div class="card-face card-back" style="background-image:url('img4.jpg')"></div></div></div>
+    <div class="card" onclick="flip(this)"><div class="card-inner"><div class="card-face">💌</div><div class="card-face card-back" style="background-image:url('image1.jpg')"></div></div></div>
+    <div class="card" onclick="flip(this)"><div class="card-inner"><div class="card-face">💗</div><div class="card-face card-back" style="background-image:url('image2.jpg')"></div></div></div>
+    <div class="card" onclick="flip(this)"><div class="card-inner"><div class="card-face">💕</div><div class="card-face card-back" style="background-image:url('image3.jpg')"></div></div></div>
+    <div class="card" onclick="flip(this)"><div class="card-inner"><div class="card-face">💞</div><div class="card-face card-back" style="background-image:url('image4.jpg')"></div></div></div>
   </div>
 </section>
 
@@ -144,7 +144,7 @@
 <section>
   <h2>Chúng ta 💕</h2>
   <video controls autoplay muted loop>
-    <source src="love-video.mp4" type="video/mp4">
+    <source src="love anni.mp4" type="video/mp4">
   </video>
 </section>
 
