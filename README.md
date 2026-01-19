@@ -107,14 +107,14 @@
 <!-- Password -->
 <div id="lock">
   <h2>💗 Chỉ dành cho chúng ta 💗</h2>
-  <p>Gợi ý: ngày sinh của tôi và  cộng lại – tháng sinh cộng lại – năm sinh của cả hai</p>
+  <p>Gợi ý: ngày sinh của tôi và iem cộng lại – tháng sinh cộng lại – năm sinh của cả hai</p>
   <input type="password" id="pass" placeholder="Nhập mật khẩu" />
   <button onclick="unlock()">Mở khoá</button>
 </div>
 
 <!-- Music -->
 <audio autoplay loop controls style="position:fixed;bottom:10px;left:10px;z-index:10">
-  <source src="binh-yen-vu.mp3" type="audio/mpeg">
+  <source src="yeu em hon moi ngay.mp3" type="audio/mpeg">
 </audio>
 
 <section>
